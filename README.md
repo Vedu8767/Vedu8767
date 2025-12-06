@@ -12,7 +12,7 @@
 - 📊 Skilled in **Data Analysis**, **Visualization**, and **Cloud-based Analytics**
 - 📚 Constantly learning and improving in the areas of **SQL, Python, Excel, Power BI, and Tableau**
 - 💬 Open to collaborations in **Data Projects**, **Dashboards**, and **AI + Analytics**
-- 📬 Reach me at: **vedashreekulkarni@example.com** *(replace with real email)*  
+- 📬 Reach me at: **vedashreekulkarni@example.com** 
 - 🧠 Fun Fact: I enjoy decoding patterns in data just like solving puzzles 🧩
 
 ---
